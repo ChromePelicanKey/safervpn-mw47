@@ -1,4 +1,4 @@
-
+custom SaferVPN Connector | kill-switch + P2P-support offers the most advanced SaferVPN connector, with kill-switch and P2P-support. Ideal for users who value privacy and security.
 
 
 
